@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AdForest-Android-App.iml" filepath="$PROJECT_DIR$/../AdForest-Android-App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AdForestH 2.3.5.iml" filepath="$PROJECT_DIR$/../AdForestH 2.3.5.iml" group="AdForestH 2.3.5" />
+      <module fileurl="file://$PROJECT_DIR$/app.iml" filepath="$PROJECT_DIR$/app.iml" group="AdForestH 2.3.5/app" />
+    </modules>
+  </component>
+</project>
